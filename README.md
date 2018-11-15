@@ -46,7 +46,13 @@ Your built file will be in `/public`
 
 ## Contributing
 
-- [Submit an idea](https://github.com/muhajirframe/gatsby-starter-firebase/issues/new)
+Do not hesitate to:
+
+- [Submit an idea or question](https://github.com/muhajirframe/gatsby-starter-firebase/issues/new)
 - Make a pull request
+
+## Showcase
+
+Have a site made with this starter? Please submit an issue or PR
 
 **Enjoy!**
