@@ -1,4 +1,4 @@
-# Gatsby Tailwind Emotion Starter
+# Gatsby Starter Firebase
 
 ## What's included
 
